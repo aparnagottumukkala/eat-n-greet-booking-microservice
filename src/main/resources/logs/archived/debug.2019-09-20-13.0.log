@@ -1,0 +1,6 @@
+2019-09-20 13:33:06 - INFO  - c.n.i.e.b.BookingmicroserviceApplication - Starting BookingmicroserviceApplication on saurabh with PID 5886 (/home/saurabh/EatNGreet/eat-n-greet/bookingmicroservice/target/classes started by saurabh in /home/saurabh/EatNGreet/eat-n-greet/bookingmicroservice)
+2019-09-20 13:33:06 - DEBUG - c.n.i.e.b.BookingmicroserviceApplication - Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-20 13:33:06 - INFO  - c.n.i.e.b.BookingmicroserviceApplication - The following profiles are active: dev
+2019-09-20 13:33:16 - INFO  - c.n.i.e.b.BookingmicroserviceApplication - Started BookingmicroserviceApplication in 10.998 seconds (JVM running for 12.906)
+2019-09-20 13:35:22 - DEBUG - com.nus.iss.eatngreet.booking - Application Started
+2019-09-20 13:36:34 - DEBUG - com.nus.iss.eatngreet.booking - Starting BookingServiceImpl for createOrder
